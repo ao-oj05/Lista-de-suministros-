@@ -46,7 +46,7 @@ cd Lista-de-suministros-
 ## Instalar las dependencias
 npm install
 
-## Ejecutar el proyecto en modo desarrollo
+## Ejecutar el proyecto 
 npm run dev
 
 ## Abrir la aplicación en el navegador
@@ -70,3 +70,4 @@ Confirmar que la información se procesa correctamente y la lista se actualiza.
 ## Nota final
 
 Si se siguen correctamente los pasos anteriores, el proyecto se ejecutará sin necesidad de configuraciones adicionales y cumplirá con los requerimientos solicitados en la actividad.
+
